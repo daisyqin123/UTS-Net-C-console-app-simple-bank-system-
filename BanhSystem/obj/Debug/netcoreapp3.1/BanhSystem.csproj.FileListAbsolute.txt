@@ -1,0 +1,14 @@
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.exe
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.deps.json
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.runtimeconfig.json
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.runtimeconfig.dev.json
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.dll
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\bin\Debug\netcoreapp3.1\BanhSystem.pdb
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.csproj.AssemblyReference.cache
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.AssemblyInfoInputs.cache
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.AssemblyInfo.cs
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.csproj.CoreCompileInputs.cache
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.dll
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.pdb
+C:\Users\18511\Desktop\.Net\assignment1\BanhSystem\obj\Debug\netcoreapp3.1\BanhSystem.genruntimeconfig.cache

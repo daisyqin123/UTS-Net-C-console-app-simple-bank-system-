@@ -1,0 +1,8 @@
+First Name| daisy
+Last Name|qin
+Address|uww
+Phone|0452156171
+yumengqin407@gmail.com
+AccountNo|00000001
+10
+18/09/2022 5:13:44 PM|DEPOSIT| $10 | 10

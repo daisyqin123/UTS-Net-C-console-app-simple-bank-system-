@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Znq22Ybjok8NCBvs4OlaBuAZvm51n2hw/fptVcQ28Lp69aOYUOktb2G3JPBcQBY/gUlTBHfRqDaaywVVf5D/nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\18511\\Desktop\\.Net\\assignment1\\BanhSystem\\BanhSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18511\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
